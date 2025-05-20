@@ -5,7 +5,7 @@ conn = mysql.connector.connect(
     host="localhost",
     user="root",
     password="password", 
-    database="scuola"
+    database="scuola2"
 )
 
 print("Connessione avvenuta con successo!")
